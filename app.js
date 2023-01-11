@@ -21,6 +21,7 @@ while (a < array1.length && b < array2.length) {
   b++;
 }
 
+//? Question2:
 profiles = [
   { name: "Rache", gender: "female" },
   { name: "John", gender: "male" },
